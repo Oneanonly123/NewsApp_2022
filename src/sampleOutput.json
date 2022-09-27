@@ -1,0 +1,206 @@
+{
+  "status": "ok",
+  "totalResults": 36,
+  "articles": [
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Peter Valdes-Dapena",
+      "title": "Ford's new Mustang sticks with pure gasoline - CNN",
+      "description": "Ford unveiled an all-new version of the two-door Mustang coupe at an event in Detroit Wednesday night. It has a new body design and new engine options, but the one thing it won't have is electric motors. The new Mustang will be offered only with pure gasoline…",
+      "url": "https://www.cnn.com/2022/09/14/business/new-ford-mustang/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220914114326-01-embargo-restricted-new-ford-mustang.jpg?q=w_800,c_fill",
+      "publishedAt": "2022-09-15T14:22:00Z",
+      "content": "Ford unveiled an all-new version of the two-door Mustang coupe at an event in Detroit Wednesday night. It has a new body design and new engine options, but the one thing it wont have iselectric motor… [+5419 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Issy Ronald",
+      "title": "Roger Federer announces his retirement from the ATP Tour and grand slams - CNN",
+      "description": "Roger Federer has announced that he will retire from the ATP Tour and grand slams following the Laver Cup next week in London.",
+      "url": "https://www.cnn.com/2022/09/15/tennis/roger-federer-retirement-announcement-spt-intl/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220915092436-01-roger-federer-032819-file.jpg?q=w_800,c_fill",
+      "publishedAt": "2022-09-15T14:13:00Z",
+      "content": "Roger Federer has announced that he will retire from the ATP Tour and grand slams following the Laver Cup next week in London. \r\nI am 41 years old. I have played more than 1500 matches over 24 years.… [+2084 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Max Foster, Lauren Said-Moorhouse",
+      "title": "Queen's funeral service to end with two-minute nationwide silence, palace officials say - CNN",
+      "description": "A two-minute nationwide silence will be held shortly before the state funeral service for Queen Elizabeth II concludes on Monday, palace officials have revealed.",
+      "url": "https://www.cnn.com/2022/09/15/uk/queen-elizabeth-funeral-service-intl-gbr/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220914110024-09-qe2-procession-to-westminster-0914.jpg?q=w_800,c_fill",
+      "publishedAt": "2022-09-15T14:06:00Z",
+      "content": "A two-minute nationwide silence will be held shortly before the state funeral service for Queen Elizabeth II concludes on Monday, palace officials have revealed.\r\nThe meticulously planned arrangement… [+5497 chars]"
+    },
+    {
+      "source": { "id": "the-washington-post", "name": "The Washington Post" },
+      "author": "Lily Kuo, Robyn Dixon",
+      "title": "China’s Xi Jinping meets with Putin amid Russian military losses - The Washington Post",
+      "description": "The Chinese and Russian leaders' first face-to-face meeting since February comes at a fragile time for both, testing how boundless their friendship really is.",
+      "url": "https://www.washingtonpost.com/world/2022/09/15/china-xi-jinping-putin-meeting-russia-ukraine/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/F7F55ZBU7II63IGWIFJJTP7L2U.jpg&w=1440",
+      "publishedAt": "2022-09-15T14:03:13Z",
+      "content": "Amid the global economic uncertainty triggered by Russias war on Ukraine, Chinese President Xi Jinping and Russian President Vladimir Putin Thursday pledged to inject stability into a turbulent world… [+6984 chars]"
+    },
+    {
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "Ingrid Lunden",
+      "title": "Adobe snaps up Figma for $20B, taking out one of its biggest rivals in digital design - TechCrunch",
+      "description": "Big news in the world of digital creative technology: Adobe today announced that it would acquire Figma for $20 billion, taking out one of its biggest rivals in the realm of digital design. Both the WSJ and Bloomberg reported earlier this morning that Adobe w…",
+      "url": "https://techcrunch.com/2022/09/15/adobe-is-buying-figma-for-20b-taking-out-one-of-its-biggest-rivals-in-digital-design/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/08/figma.jpg?resize=1200,799",
+      "publishedAt": "2022-09-15T13:18:45Z",
+      "content": "Big news in the world of digital creative technology: Adobe today announced that it would acquire Figma for $20 billion, taking out one of its biggest rivals in the realm of digital design.\r\nBoth the… [+4719 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Diksha Madhok, CNN Business",
+      "title": "The world's second biggest cryptocurrency just got a lot greener - CNN",
+      "description": "Ethereum, the world's second most valuable cryptocurrency, has completed a massive software upgrade that its backers claim will slash its carbon footprint.",
+      "url": "https://www.cnn.com/2022/09/15/tech/ethereum-merge-crytocurrency-energy-consumption-hnk-intl/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220915115719-ethereum-cryptocurrencies-stock-super-tease.jpg",
+      "publishedAt": "2022-09-15T13:17:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "HM The Queen: Lying-in-State - BBC News",
+      "description": "Live stream of HM Queen Elizabeth II Lying-in-State at Westminster Hall in London. Members of the public pass through the Hall throughout the day and night t...",
+      "url": "https://www.youtube.com/watch?v=JOGLi01AWBg",
+      "urlToImage": "https://i.ytimg.com/vi/JOGLi01AWBg/hqdefault_live.jpg",
+      "publishedAt": "2022-09-15T13:14:09Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Jeff Cox",
+      "title": "Retail sales August 2022: - CNBC",
+      "description": "Advance retail sales for the month increased 0.3% from July, better than the Dow Jones estimate for no change.",
+      "url": "https://www.cnbc.com/2022/09/15/retail-sales-august-2022.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107117710-16630826942022-07-13t220733z_1652291142_rc23bv99psqi_rtrmadp_0_usa-fed-inflation.jpeg?v=1663247407&w=1920&h=1080",
+      "publishedAt": "2022-09-15T13:10:07Z",
+      "content": "Retail sales numbers were better than expected in August as price increases across a multitude of sectors offset a considerable drop in gas station receipts, the Census Bureau reported Thursday.\r\nAdv… [+3013 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Athletic" },
+      "author": "John Hollinger",
+      "title": "Hollinger: Adam Silver botched Robert Sarver’s punishment and news conference. He has a year to fix it - The Athletic",
+      "description": "Hollinger: The clock is ticking, Adam. You have 364 days to fix this mess.",
+      "url": "https://theathletic.com/3596637/2022/09/15/adam-silver-robert-sarver-punishment/",
+      "urlToImage": "https://cdn.theathletic.com/app/uploads/2022/09/15073526/GettyImages-1243236831-scaled.jpg",
+      "publishedAt": "2022-09-15T13:05:43Z",
+      "content": "Adam Silver, youre on the clock.\r\nYou have one year to get Robert Sarver all the way out of your league. If that wasnt obvious in the immediate reaction to Tuesdays announcement of a wrist-slap punis… [+13089 chars]"
+    },
+    {
+      "source": { "id": "politico", "name": "Politico" },
+      "author": null,
+      "title": "DeSantis ships migrants to Martha's Vineyard - POLITICO - POLITICO",
+      "description": "One Martha’s Vineyard news organization suggested that many of those who had arrived were migrants who had come to the U.S. from Venezuela.",
+      "url": "https://www.politico.com/news/2022/09/15/desantis-migrants-marthas-vineyard-immigration-florida-00056870",
+      "urlToImage": "https://static.politico.com/16/93/55d1fea4421994ba0d62ec62fba2/immigration-desantis-flights-84163.jpg",
+      "publishedAt": "2022-09-15T13:02:04Z",
+      "content": "States like Massachusetts, New York, and California will better facilitate the care of these individuals who they have invited into our country by incentivizing illegal immigration through their desi… [+2394 chars]"
+    },
+    {
+      "source": { "id": "the-verge", "name": "The Verge" },
+      "author": "Victoria Song",
+      "title": "Apple Watch Series 8 review: if it ain't broke - The Verge",
+      "description": "The Apple Watch Series 8 adds new temperature sensors and Crash Detection, but there isn’t much reason to upgrade if you’re happy with what you’ve got. Still, this is the best Apple Watch for the majority of people.",
+      "url": "https://www.theverge.com/23353756/apple-watch-series-8-review-smartwatch-wearables",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/67S7dGHbl2YiJOPcJG17wkq9aH8=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24023372/226266_APPLE_WATCH_8_SE_PHO_akrales_0652.jpg",
+      "publishedAt": "2022-09-15T13:00:00Z",
+      "content": "The Apple Watch Series 8 has me thinking about the Japanese business philosophy of kaizen. The concept, made famous by Toyota, means continuous improvement. The Series 7 was a minor update to the Ser… [+16849 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Lucy Kafanov and Chuck Johnston, CNN",
+      "title": "Judge orders an Iowa teen who killed her alleged rapist to pay his family $150,000 in restitution - CNN",
+      "description": "A girl who was 15 when she killed a man she said raped her multiple times must pay his family $150,000 in restitution, an Iowa judge ruled Tuesday.",
+      "url": "https://www.cnn.com/2022/09/14/us/iowa-teen-restitution-family-of-alleged-rapist/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220914164115-02-pieper-lewis-sentencing-hearing-super-tease.jpg",
+      "publishedAt": "2022-09-15T12:39:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "Page Six" },
+      "author": "Riley Cardoza",
+      "title": "Kim Kardashian plans to date biochemist or attorney after Pete Davidson breakup - Page Six",
+      "description": "“I’m not looking [for love],” the “Kardashians” star clarified to James Corden, noting she wants to “chill for a minute” and “focus” on law sch…",
+      "url": "https://pagesix.com/2022/09/15/kim-kardashian-to-date-biochemist-attorney-after-pete-davidson/",
+      "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2022/09/kim-kardashian-61.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2022-09-15T12:33:00Z",
+      "content": "Kim Kardashian is looking for love in unlikely places after her breakup with Pete Davidson.\r\n“Clearly it’s not working, whatever I’m doing,” the reality star, 41, said during her “Late Late Show With… [+2026 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Nectar Gan and Anna Chernova, CNN",
+      "title": "Putin meets Xi as Russian invasion of Ukraine falters - CNN",
+      "description": "Russian President Vladimir Putin told Chinese leader Xi Jinping on Thursday he \"highly appreciates\" China's \"balanced position\" on the Ukraine war, as Moscow contends with growing international isolation over its faltering invasion.",
+      "url": "https://www.cnn.com/2022/09/15/asia/xi-putin-meeting-main-bar-intl-hnk/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220915042640-01-putin-xi-jinping-2019-file-super-tease.jpg",
+      "publishedAt": "2022-09-15T11:58:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "CBS Sports" },
+      "author": "",
+      "title": "Chargers at Chiefs: Time, channel, how to watch, key matchups, pick for Week 2 of 'Thursday Night Football' - CBS Sports",
+      "description": "Justin Herbert and Patrick Mahomes face off in primetime",
+      "url": "https://www.cbssports.com/nfl/news/chargers-at-chiefs-time-channel-how-to-watch-key-matchups-pick-for-week-2-of-thursday-night-football/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/09/14/1748243c-e456-4dab-a186-9a73881fed57/thumbnail/1200x675/8d4e47ae88e858f5cece6cde2e3f03e7/justin-herbert-patrick-mahomes.jpg",
+      "publishedAt": "2022-09-15T11:46:51Z",
+      "content": "On this week's edition of \"Thursday Night Football,\" we've got a blockbuster matchup of two of the best teams in the league -- each from what is widely expected to be the NFL's best division. Both th… [+8702 chars]"
+    },
+    {
+      "source": { "id": null, "name": "WCVB Boston" },
+      "author": null,
+      "title": "5 Investigates: Authorities investigating whether Northeastern University explosion was staged - WCVB Boston",
+      "description": "Those sources also told 5 Investigates that the injuries suffered by the employee who reported it were not consistent with wounds typically suffered during an explosion.",
+      "url": "https://www.wcvb.com/article/northeastern-university-boston-investigation-sept-14-update/41213196",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/northeastern-university-reported-explosion-response-9-14-2022-1663197109.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+      "publishedAt": "2022-09-15T11:11:00Z",
+      "content": "BOSTON —Multiple law enforcement sources tell 5 Investigates that authorities are now looking into whether the Northeastern University employee who reported that a Pelican-style case exploded when he… [+4921 chars]"
+    },
+    {
+      "source": { "id": "financial-times", "name": "Financial Times" },
+      "author": "Emma Dunkley",
+      "title": "Patagonia founder hands company to trust to tackle climate crisis - Financial Times",
+      "description": "Yvon Chouinard expects outdoor clothing group to give $100mn a year to environmental causes",
+      "url": "https://www.ft.com/content/18b65e37-945a-4237-ae48-31ab1906ec58",
+      "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa7f8e3ef-d787-402a-85f1-df260589afb8.png?source=next-opengraph&fit=scale-down&width=900",
+      "publishedAt": "2022-09-15T10:36:44Z",
+      "content": "Patagonias billionaire founder is handing the outdoor clothing company to a trust that will use future profits to battle the climate crisis.\r\nYvon Chouinard said in an open letter that the money the … [+2743 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Ringer" },
+      "author": "Sheil Kapadia",
+      "title": "Week 2 NFL Picks Against the Spread - The Ringer",
+      "description": "This week brings us some big point spreads as we’re looking to rebound from a tough Week 1. Look for the Los Angeles Chargers to keep it close on Thursday night, the Detroit Lions to cover (again), and the Green Bay Packers and San Francisco 49ers to both get…",
+      "url": "https://www.theringer.com/nfl/2022/9/15/23354008/nfl-picks-against-the-spread",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/DYjI6KqgVzTlo-O6xfbmnW-0f_0=/0x0:1200x628/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24024003/PicksAgainstTheSpreadWk1_Getty_AP_Ringer.jpeg",
+      "publishedAt": "2022-09-15T10:20:00Z",
+      "content": "Week 1 was ugly. Thats OK! Its a long season.\r\nWeve got another full slate of games on the schedule in Week 2, including a pair of Monday night matchups. Lets get to the picks. Lines are courtesy of … [+14228 chars]"
+    },
+    {
+      "source": { "id": null, "name": "HeraldScotland" },
+      "author": "Lois Mackenzie",
+      "title": "TikTok crashing: Why does TikTok keep crashing? | HeraldScotland - HeraldScotland",
+      "description": "Users of the social media app, TikTok, have reported outrages with other service today.",
+      "url": "https://www.heraldscotland.com/news/national/uk-today/21582274.tiktok-crashing-tiktok-keep-crashing/",
+      "urlToImage": "https://www.heraldscotland.com/resources/images/14088329/?type=og-image",
+      "publishedAt": "2022-09-15T10:00:03Z",
+      "content": "Why are you making commenting on HeraldScotland only available to subscribers?\r\nIt should have been a safe space for informed debate, somewhere for readers to discuss issues around the biggest storie… [+1092 chars]"
+    },
+    {
+      "source": { "id": null, "name": "INSIDER" },
+      "author": "Ayomikun Adekaiyero",
+      "title": "Nick Cannon welcomes ninth child, his first with model Lanisha Cole - Insider",
+      "description": "Nick Cannon announced that he has had another child, his first with Lanisha Cole. He is also expecting a child with Brittany Bell.",
+      "url": "https://www.insider.com/nick-cannon-welcomes-his-ninth-child-model-lanisha-cole-2022-9",
+      "urlToImage": "https://i.insider.com/6322dde0e555ad001852bbd8?width=1200&format=jpeg",
+      "publishedAt": "2022-09-15T09:36:35Z",
+      "content": "Nick Cannon announced the birth of his ninth child, his first with model Lanisha Cole.\r\nWhile in the past Cannon has announced that he is expecting children before they were born, he shared no news a… [+2855 chars]"
+    }
+  ]
+}
